@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100">
+    <div className="min-h-screen bg-black text-slate-100">
       {/* Top nav */}
       <header className="fixed top-0 inset-x-0 z-40">
         <div className="mx-auto max-w-6xl px-6 md:px-10">
